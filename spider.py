@@ -18,3 +18,5 @@ for item in text_list:
   f.writelines(row_text)
 
 f.close()
+
+# 测试 CI/CD是否能成功
